@@ -20,6 +20,17 @@ An Excel-based solution for managing monthly transportation charge responses and
 - **Master Contacts:** Contact information
 - **Cover - Read Me:** Instructions and project overview
 
+## Efficiency Impact
+
+Once the workflow is established:
+
+- A new monthly file takes approximately 5 minutes to set up.
+- Follow-up is reduced to one reminder email before the deadline.
+- Completed records flow automatically into the finance-ready output.
+- Final review and return to Finance can often take less than 5 minutes, depending on data quality and required corrections.
+
+This significantly reduces repetitive tracking, manual entry, and follow-up effort.
+
 ## Preview
 
 ![Admin Dashboard](images/excel_workflow_automation.png)
