@@ -29,14 +29,6 @@ Once the workflow is established:
 
 This significantly reduces repetitive tracking, manual entry, and follow-up effort.
 
-## Preview
-
-excel_workflow_automation.png
-
-## Download
-
-Portfolio_Transportation_Charge_Automation_Updated.xlsx
-
 ## Disclaimer
 
 This is a portfolio demonstration. All names, email addresses, transactions, and other data are fictional.
