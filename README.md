@@ -1,6 +1,4 @@
 # excel-workflow-automation
-Excel automation for monthly response tracking and finance allocation.
-
 An Excel-based solution for managing monthly transportation charge responses and preparing finance-ready allocation records.
 
 ## Key Features
