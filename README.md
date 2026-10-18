@@ -31,7 +31,7 @@ This significantly reduces repetitive tracking, manual entry, and follow-up effo
 
 ## Preview
 
-![Admin Dashboard](images/excel_workflow_automation.png)
+excel_workflow_automation.png
 
 ## Download
 
